@@ -1,5 +1,8 @@
 This branch works for MAC on NAB
 
+# TO PULL JUST /SRC
+git checkout source_branch <paths>...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
